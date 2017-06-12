@@ -1,5 +1,5 @@
 # cacti-mimosa-b5-template
-A basic cacti host template for Mimosa B5 backhaul radio equipment.
+A basic cacti host template for Mimosa B5 backhaul radio equipment. Compatible and tested with b5/b5c firmware 1.4.4.
 
 CDEF
 Divide by 100
