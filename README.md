@@ -2,11 +2,15 @@
 A basic cacti host template for Mimosa B5 backhaul radio equipment.
 Compatible and tested with b5/b5c firmware 1.4.6.
 Please note that firmware 1.4.4 is not fully compatible.
-Devices will need to select 'create graphs for this host', see image.
+Lastly, devices added with previous versions of the template will need to be removed and re-added with the new template, losing historical data. There is a manual workaround, but it is an absurd amount of work.
 
 ***Somewhere along the line to firmware 1.4.6, mimosaRxPower and mimosaSNR behavior changed and breaks the current cacti template. Once the expected behavior is confirmed by Mimosa, I will update the template for future versions.
 
-## import output:
+Devices will need to select 'create graphs for this host', see image.
+
+![create-new-graphs](https://github.com/danpalamo/cacti-mimosa-b5-template/blob/master/cacti-mimosa-b5-template-create-new-graphs.png)
+
+## expected import output:
 
 #### CDEF
 - [success] Divide by 100 [update]
