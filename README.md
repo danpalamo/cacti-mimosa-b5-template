@@ -8,7 +8,7 @@ Lastly, devices added with previous versions of the template will need to be rem
 
 ***Somewhere along the line to firmware 1.4.6, mimosaRxPower and mimosaSNR behavior changed and breaks the current cacti template. Once the expected behavior is confirmed by Mimosa, I will update the template for future versions.
 
-Devices will need to select 'create graphs for this host', see image.
+~~Devices will need to select 'create graphs for this host', see image.
 
 ![create-new-graphs](https://github.com/danpalamo/cacti-mimosa-b5-template/blob/master/cacti-mimosa-b5-template-create-new-graphs.png)
 
