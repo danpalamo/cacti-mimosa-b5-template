@@ -1,5 +1,7 @@
 ***Tested with firmware 1.5.1, all working fine. However, Mimosa is not supporting 64-bit traffic counters, so currently not advising bothering with monitoring traffic OID's.
 
+***Tested with b11, all working fine.
+
 ***Tested with b24, all working fine.
 
 # cacti-mimosa-b5-template
