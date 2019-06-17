@@ -6784,7 +6784,7 @@
 		<cf_items>1|3</cf_items>
 	</hash_150025e36f3adb9f152adfa5dc50fd2b23337e>
 	<hash_05002573e70094d5962f9b8444d71fcc2adf49>
-		<name>Divide by 100</name>
+		<name>Divide by 10</name>
 		<items>
 			<hash_140025c8e7228a4d88aa8a328659e2a2d0d382>
 				<sequence>1</sequence>
