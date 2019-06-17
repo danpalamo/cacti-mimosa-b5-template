@@ -4,6 +4,8 @@ Compatible and tested with b5/b5c firmware 1.4.6.
 Please note that firmware 1.4.4 is not fully compatible.
 Lastly, devices added with previous versions of the template will need to be removed and re-added with the new template, losing historical data. There is a manual workaround, but it is an absurd amount of work.
 
+***Tested with firmware 1.5.1, all working fine. However, Mimosa is not supporting 64-bit traffic counters, so currently not advising bothering with monitoring traffic OID's.
+
 ***Somewhere along the line to firmware 1.4.6, mimosaRxPower and mimosaSNR behavior changed and breaks the current cacti template. Once the expected behavior is confirmed by Mimosa, I will update the template for future versions.
 
 Devices will need to select 'create graphs for this host', see image.
