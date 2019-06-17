@@ -1,5 +1,7 @@
 ***Tested with firmware 1.5.1, all working fine. However, Mimosa is not supporting 64-bit traffic counters, so currently not advising bothering with monitoring traffic OID's.
 
+***Tested with b24, all working fine.
+
 # cacti-mimosa-b5-template
 A basic cacti host template for Mimosa B5 backhaul radio equipment.
 Compatible and tested with b5/b5c firmware 1.4.6.
